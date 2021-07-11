@@ -2,7 +2,9 @@
 
 Equipe:  Thays Gama, Tania Rita, Sophia Fiama, Juan Ignacio Alcala, Lucas Fidelis Maia.
 
+O resultado final pode ser acessado através da GitHub Page:
 
+https://thaysgama.github.io/dh-frontend-prova1/
 
 - 25px de Padding (Ou sua sugestão)
 - Ícones
